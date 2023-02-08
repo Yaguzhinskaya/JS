@@ -94,9 +94,9 @@
 // let test2 = Number(prompt("Введите второе число"));
 // (test1 === test2) ? console.log("Числа равны") : console.log("Числа не равны");
 
-let test = Number(prompt("Введите первле число"));
-if (test > 0 && test < 15) {
-    console.log("Переменная прошла проверку")
-} else {
-    console.log("Переменная не прошла проверку")
-}
+// let test = Number(prompt("Введите первле число"));
+// if (test > 0 && test < 15) {
+//     console.log("Переменная прошла проверку")
+// } else {
+//     console.log("Переменная не прошла проверку")
+// }

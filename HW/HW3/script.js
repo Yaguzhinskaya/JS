@@ -1,11 +1,11 @@
 // Урок 3. Знакомство с функциями в JavaScript
 // Задание 1
 // Создайте функцию которая возводит переданное число в куб, необходимо вывести в консоль результат 2^3 степени + 3 ^ 3 степени
-// function kub(num) {
-//     let rez = (Math.pow(num));
-//     return rez;
-// }
-// console.log(rez);
+function kub(num) {
+    let rez = (Math.pow(num));
+    return rez;
+}
+console.log(kub((Math.pow(num))));
 
 // kub(Math.pow(2, 3));
 // kub(3, 3); //не получилось

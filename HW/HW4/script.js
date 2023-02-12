@@ -31,15 +31,21 @@
 // 1. Рассчитать сумму элементов этого массива
 // 2. Найти минимальное число
 // 3. Найти есть ли в этом массиве число 3
+//1 вариавнт
 // const arr = [];
 // let size = 5;
-// for (let i = 0; i < arr.length; i++) {
-//     arr.push(Math.random[i]), 2;
+// for (let i = 0; i < arr.size; i++) {
+//     let perem = (Math.random() * 100);
+//     arr[i] = perem(perem);
 // }
-// console.log(arr.length);
-// console.log(arr.push(Math.random()));
-
-
+// console.log(arr);
+// 2 вариант
+// const digit = [];
+// for (let index = 0; index < 5; index++) {
+//     let number = (Math.random() * 10);
+//     digit[index] = parseInt(number);
+// }
+// console.log(digit);
 
 
 //оставлю на сладенькое после окончания учебы)

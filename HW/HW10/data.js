@@ -26,8 +26,4 @@ const divo =
     "ip": "161.185.160.93",
     "city": "New York City",
     "readme": "https://ipinfo.io/missingauth"
-
-    "message": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_4269.jpg",
-    "status": "success"
-  
 }]`

@@ -7,13 +7,13 @@ data.forEach(element => {
     const inName = document.createElement('h1');
     const ip = document.createElement('p');
     const city = document.createElement('p');
-    const readme = document.createElement('p');
+    const readme = document.createElement('a');
 
 
     ip.textContent = element.ip;
     gender.textContent = element.gender;
     city.textContent = element.city;
-    readme.src = element.readme;
+    readme.a = element.readme;
 
     content.appendChild(contentBox);
     contentBox.appendChild(inName);
